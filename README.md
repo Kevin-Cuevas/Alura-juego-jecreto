@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-En **Juego Secreto**, al inicar habra un numero aleatorio, el cual debe ser descubierto por el jugador, este proyecto es del parte del curso de **Alura Latam** para el curso de **Lógica de programación: explorar funciones y listas**.
+En **Juego Secreto**, al inicar habra un numero aleatorio, el cual debe ser descubierto por el jugador, este proyecto es parte del curso de **Alura Latam** para el curso de **Lógica de programación: explorar funciones y listas**.
 
 ## Description
 
