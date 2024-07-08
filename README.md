@@ -11,5 +11,3 @@ In **Juego Secreto**, at the start there will be a random number that the player
 ---
 
 > ![Project: Secret Game](git/Animation.gif)
-
-a
