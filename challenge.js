@@ -183,3 +183,5 @@ const sqrArr = function (arr) {
 };
 console.log(sqrArr([2, 5, 10]));
  */
+
+// Test
